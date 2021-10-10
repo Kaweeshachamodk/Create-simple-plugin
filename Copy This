@@ -1,0 +1,18 @@
+/* Copyright (C) 2021 STEFANIE
+
+CODDED BY KAWEESHA CHAMOD
+
+Licensed under the  GPL-3.0 License;
+
+you may not use this file except in compliance with the License.
+StefaniePublic - KAWEESHA CHAMOD
+*/
+
+const Asena = require('../events');
+const {MessageType} = require('@adiwajshing/baileys');
+
+Asena.addCommand({pattern: 'hi', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+
+    await message.sendMessage("hellow");
+
+}));
