@@ -1,6 +1,6 @@
 <h1 align="center"><b> 😻How To Create Own Whatsapp Bot plugging!!  </b></h1>
 
-![logo](https://telegra.ph/file/b003945dfcfda709be866.jpg)
+![logo](https://telegra.ph/file/0edc0f3917fde20a7990a.jpg)
 
 ## Github Account එකක් තාම හදාගෙන නැත්නම් පහල Link එකෙන් හදාගන්න
 
